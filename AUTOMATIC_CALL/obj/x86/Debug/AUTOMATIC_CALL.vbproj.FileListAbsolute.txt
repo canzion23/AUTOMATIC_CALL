@@ -1,0 +1,25 @@
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\obj\x86\Debug\AUTOMATIC_CALL.mainForm.resources
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\obj\x86\Debug\AUTOMATIC_CALL.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\obj\x86\Debug\AUTOMATIC_CALL.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\obj\x86\Debug\AUTOMATIC_CALL.xml
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\bin\Debug\AUTOMATIC_CALL.exe
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\bin\Debug\AUTOMATIC_CALL.pdb
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\bin\Debug\AUTOMATIC_CALL.xml
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\obj\x86\Debug\AUTOMATIC_CALL.exe
+E:\Documents\Visual Studio 2015\Projects\AjpdSoftEnvioSMS\AjpdSoftEnvioSMS\obj\x86\Debug\AUTOMATIC_CALL.pdb
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\AUTOMATIC_CALL.exe
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\AUTOMATIC_CALL.pdb
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\AUTOMATIC_CALL.xml
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.mainForm.resources
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.exe
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.xml
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.pdb
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\AUTOMATIC_CALL.exe.config
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\AUTOMATIC_CALL.exe.config
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.exe
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.xml
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\AUTOMATIC_CALL.pdb
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\CALL_DATAGRID.exe.config

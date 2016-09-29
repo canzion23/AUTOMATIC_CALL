@@ -1,0 +1,9 @@
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\bin\Debug\PruebaTextBoxNumeros.exe.config
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\bin\Debug\PruebaTextBoxNumeros.exe
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\bin\Debug\PruebaTextBoxNumeros.pdb
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\bin\Debug\PruebaTextBoxNumeros.xml
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\obj\Debug\PruebaTextBoxNumeros.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\obj\Debug\PruebaTextBoxNumeros.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\obj\Debug\PruebaTextBoxNumeros.exe
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\obj\Debug\PruebaTextBoxNumeros.xml
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL\PruebaTextBoxNumeros\obj\Debug\PruebaTextBoxNumeros.pdb

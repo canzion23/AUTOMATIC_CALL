@@ -1,0 +1,12 @@
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\CALL_DATAGRID.mainForm.resources
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\CALL_DATAGRID.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\CALL_DATAGRID.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\CALL_DATAGRID.xml
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\CALL_DATAGRID.exe.config
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\CALL_DATAGRID.exe
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\CALL_DATAGRID.pdb
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\bin\Debug\CALL_DATAGRID.xml
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\CALL_DATAGRID.exe
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\CALL_DATAGRID.pdb
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\CALL_DATAGRID.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\AUTOMATIC_CALL(Versión con DataGridView)\AUTOMATIC_CALL\AUTOMATIC_CALL\obj\x86\Debug\CALL_DATAGRID.InsertarRegistro.resources
